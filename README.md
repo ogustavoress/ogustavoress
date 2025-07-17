@@ -28,8 +28,16 @@ Welcome to my GitHub profile! Here you'll find personal, academic and collaborat
 ## 📊 GitHub Stats
 
 
-![Icons](https://github-readme-stats.vercel.app/api?username=ogustavoress&show_icons=true)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ogustavoress&show_icons=true&theme=default" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavoress&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 🏅 Certifications
 
